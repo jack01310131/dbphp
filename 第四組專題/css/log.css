@@ -1,0 +1,16 @@
+.main{
+  height:600px;
+  padding:10px;
+}
+.maincenter{
+  background-color: #FAFCCA;
+  width:500px;
+  height:500px;
+  margin:60px auto;
+  text-align:center;
+  padding:30px;
+  font-family: "標楷體";
+  font-size: 25px;
+  background-image : url(../img/bg4.gif );
+  background-size:555px 555px;
+}
